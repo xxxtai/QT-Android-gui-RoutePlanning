@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>image/add_24px_1115807_easyicon.net.png</file>
+        <file>image/button.png</file>
+        <file>image/happyguy.png</file>
+    </qresource>
+</RCC>
